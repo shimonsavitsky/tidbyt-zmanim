@@ -1,0 +1,22 @@
+id: zmanim
+name: Zmanim
+summary: Jewish Prayer Times
+desc: Displays daily Jewish prayer times (zmanim) for your location. Shows dawn, sunrise, shema deadline, and other important daily times based on your ZIP code.
+author: Your Name
+fileName: zmanim.star
+packageName: zmanim
+
+# Categories are suggestions to help users find your app.
+categories:
+  - utility
+  - religious
+
+# These are permissions required by your app.
+requires:
+  - http # Needed for fetching zmanim data
+
+# Provide example configuration values
+# This helps users understand what configuration is needed
+exampleConfig:
+  zip_code: "11367"
+  speed: "30"
