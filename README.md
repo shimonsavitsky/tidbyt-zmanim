@@ -35,6 +35,7 @@ Display Jewish prayer times (zmanim) on your Tidbyt device. Shows important dail
 ## Data Source
 Times provided by Chabad.org's Zmanim API.
 
+
 ## Credits
-Author: Your Name
+Author: Shimon Savitsky
 Data: Chabad.org
